@@ -1,0 +1,31 @@
+### New Features in Spring Boot 3 ###
+
+Spring Boot 3, a major release, introduced several significant enhancements and new features. Here's a breakdown of some key additions:
+
+## Core Framework Improvements##
+
+Jakarta EE 9: Spring Boot 3 is built on top of Jakarta EE 9, providing support for the latest Java EE specifications.
+
+Spring Framework 6: It's based on Spring Framework 6, which includes reactive programming support, functional programming constructs, and improved performance.
+
+Project Reactor: Spring Boot 3 leverages Project Reactor for reactive programming, enabling non-blocking, asynchronous operations.
+
+## Configuration and Dependency Management##
+Spring Initializr: The Spring Initializr has been updated to generate Spring Boot 3 projects with the latest dependencies.
+
+Dependency Management: Spring Boot 3 provides enhanced dependency management capabilities to simplify project configuration.
+
+## Micrometer Metrics##
+Micrometer Registry: Spring Boot 3 includes a Micrometer Registry for collecting and exporting metrics to various monitoring systems.
+
+Prometheus Integration: Improved integration with Prometheus for exporting metrics in the Prometheus format.
+
+## Testing##
+Spring TestContext Framework: The Spring TestContext Framework has been updated with new features and improvements for testing Spring Boot applications.
+
+Mock REST Client: Spring Boot 3 provides a Mock REST Client for testing RESTful services without external dependencies.
+
+## Cloud Native Features##
+Spring Cloud 2023: Spring Boot 3 integrates with Spring Cloud 2023, offering support for various cloud-native technologies.
+
+Kubernetes Integration: Improved integration with Kubernetes for deploying and managing Spring Boot applications.
